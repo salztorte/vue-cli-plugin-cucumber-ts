@@ -1,0 +1,18 @@
+{
+  "name": "vue-cli-plugin-cucumber-ts",
+  "version": "0.1.0",
+  "license": "MIT",
+  "description": "vue-cli plugin to use cucumber and gherkin to test vue components written in TypeScript",
+  "keywords": [
+    "gherkin",
+    "cucumber",
+    "testing",
+    "test",
+    "typescript",
+    "ts",
+    "vue",
+    "vue sfc",
+    "vue single file components",
+    "webpack"
+  ]
+}
